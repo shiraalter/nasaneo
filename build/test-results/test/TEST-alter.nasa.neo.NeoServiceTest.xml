@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="alter.nasa.neo.NeoServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-28T23:57:28" hostname="LAPTOP-61KN8IT6" time="3.101">
+  <properties/>
+  <testcase name="getAsteroids" classname="alter.nasa.neo.NeoServiceTest" time="3.101"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
